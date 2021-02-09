@@ -21,3 +21,6 @@ When in edit mode, select the top-left vertex of the area which you want to modi
 
 When modifying connected topology, uncheck `Dissolve Extra Verts` to maintain connections and create N-gons.
 ![Scene](https://github.com/bbartschi14/edge-loop-reducer/blob/main/smallgif.gif)
+
+## Demo
+A longer demo can be seen here: https://youtu.be/wBSrTivJ7xo?t=128
